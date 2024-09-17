@@ -1,9 +1,4 @@
-# eslamatia.github.io
 
-# Eslam Atia
-
-**CS Student — Competitive Programmer**  
-**Aspiring Data Scientist with a Passion for Machine Learning**  
 
 📞 +201004742088  
 ✉️ eslam.mo.atia@gmail.com  
@@ -16,12 +11,6 @@
 *Major: Software Engineering*  
 *October 2022 – May 2026*  
 
-## Experience
-
-### Ezz Steel  
-**Intern**  
-*August 2023*  
-Cairo, Elmohandeseen
 
 ## Projects
 
@@ -54,3 +43,10 @@ Cairo, Elmohandeseen
 - Linear Algebra
 - Discrete Mathematics
 - Calculus
+
+## Experience
+
+### Ezz Steel  
+**Intern**  
+*August 2023*  
+Cairo, Elmohandeseen
