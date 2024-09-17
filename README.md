@@ -50,3 +50,10 @@
 **Intern**  
 *August 2023*  
 Cairo, Elmohandeseen
+
+## Volunteer Experience
+
+### Resala Charity
+*March 2024 – Present*
+- Engaged in various community service projects aimed at supporting underprivileged individuals.
+- Assisted in organizing events and fundraising activities to promote charitable initiatives.
