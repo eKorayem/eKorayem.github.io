@@ -8,7 +8,7 @@
 
 ### New Cairo Technology University  
 **Bachelor of Information and Communication Technology**  
-*Major: Software Engineering*  
+**Major: Software Engineering**
 *October 2022 – May 2026*  
 
 
