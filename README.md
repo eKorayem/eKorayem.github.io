@@ -1,8 +1,5 @@
-
-
-📞 +201004742088  
-✉️ eslam.mo.atia@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/ekor) | [GitHub](https://github.com/ekorayem)
+*** CS Student | Competitive programmer
+*** Aspiring Data Scientist with a Passion for Machine Learning
 
 ## Education
 
