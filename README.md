@@ -1,4 +1,4 @@
-### CS Student | Competitive programmer
+## CS Student | Competitive programmer
 #### Aspiring Data Scientist with a Passion for Machine Learning
 
 ## Education
@@ -12,8 +12,7 @@
 ## Projects
 
 ### Vacation Management System  
-*Technologies: Python, Django, HTML, CSS, JavaScript*  
-*2023*  
+*Technologies: Python, Django, HTML, CSS, JavaScript*  *2023*  
 - Developed a comprehensive web-based application to manage employee vacation requests, streamlining the approval process.
 - Implemented real-time tracking of vacation balances to enhance decision-making for employees.
 - Designed a user-friendly interface, ensuring accessibility and responsiveness across devices.
