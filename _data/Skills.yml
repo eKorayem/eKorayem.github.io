@@ -3,14 +3,7 @@ listing-order: 5
 icon: "/assets/img/screwdriver-wrench.svg"
 contents:
   - title: Programming Languages
-    description: "
-      - C++
-      - C
-      - Python
-      - Java
-      - HTML/CSS
-      - SQL
-    "
+    description: "C++, C, Python, Java, HTML/CSS, SQL"
     
     # "
       # ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg)
@@ -21,18 +14,11 @@ contents:
       # ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg)
     # "
   - title: Courses
-    description: "
-      - Data Structures 
-      - Algorithms
-      - Database
-      - OOP
-      - Operating Systems
-      - Linear Algebra
-      - Discrete Mathematics
-      - Calculus
-    "
+    description: "Data Structures, Algorithms, Database, OOP, Operating Systems, Linear Algebra, Discrete Mathematics, Calculus"
+    
   - title: Developer Tools
     description: "VS Code, Visual Studio"
+    
   - title: Technologies/Frameworks
     description: "Linux, Django, Git"
     # "
