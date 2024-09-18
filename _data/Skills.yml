@@ -34,9 +34,9 @@ contents:
     - Calculus
     "
   - title: Developer Tools
-    description: VS Code, Visual Studio
+    description: "VS Code, Visual Studio"
   - title: Technologies/Frameworks
-    description: Linux, Django, Git
+    description: "Linux, Django, Git"
     # "
     #   ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg)
     #   ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg)
