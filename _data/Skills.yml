@@ -4,12 +4,12 @@ icon: "/assets/img/screwdriver-wrench.svg"
 contents:
   - title: Programming Languages
     description: "
-    - C++
-    - C
-    - Python
-    - Java
-    - HTML/CSS
-    - SQL
+    | C++
+    | C
+    | Python
+    | Java
+    | HTML/CSS
+    | SQL
     "
     
     # "
