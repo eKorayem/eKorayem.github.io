@@ -2,12 +2,15 @@ subject: Awards
 listing-order: 6
 icon: "/assets/img/trophy.svg"
 contents:
-  - title: IEEEE Fellow
-    description: Association for Natural Language Processing
-    date: Feb. 2024
-  - title: Gogle CodeJam
-    description: 3rd place in Gogle CodeJam
-    date: Jul. 2013
-  - title: Millennium Hackaton
-    description: won the best Inspirational Youth Awards
-    date: Oct. 2010
+  - title: CS50 | Harvard University
+    description: Introduction to Computer Science
+    date: 2020
+  - title: Python Data Structure | University of Michigan
+    # description: 3rd place in Gogle CodeJam
+    date: Mar. 2023
+  - title: Linux Fundamentals | LearQuest
+    # description: won the best Inspirational Youth Awards
+    date: Dec. 2023
+  - title: Computer Basics | IBM Skills
+    # description: won the best Inspirational Youth Awards
+    date: Mat. 2024
