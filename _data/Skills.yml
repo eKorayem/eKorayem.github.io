@@ -3,7 +3,8 @@ listing-order: 5
 icon: "/assets/img/screwdriver-wrench.svg"
 contents:
   - title: Programming Languages
-    description: "
+    description: 
+    "
     - C++
     - C
     - Python
@@ -31,6 +32,7 @@ contents:
     - Linear Algebra
     - Discrete Mathematics
     - Calculus
+    "
   - title: Developer Tools
     description: VS Code, Visual Studio
   - title: Technologies/Frameworks
