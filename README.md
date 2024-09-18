@@ -1,5 +1,5 @@
 # CS Student
-#### Competitive programmer
+! Competitive programmer
 #### Aspiring Data Scientist with a Passion for Machine Learning
 
 ## Education
