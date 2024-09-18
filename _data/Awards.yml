@@ -2,9 +2,9 @@ subject: Awards
 listing-order: 6
 icon: "/assets/img/trophy.svg"
 contents:
-  - title: CS50 | Harvard University
+  - title: "CS50 | Harvard University"
     description: Introduction to Computer Science
-    date: 2020
+    date: Feb. 2020
   - title: Python Data Structure | University of Michigan
     # description: 3rd place in Gogle CodeJam
     date: Mar. 2023
