@@ -3,8 +3,8 @@ listing-order: 1
 icon: "/assets/img/graduation-cap.svg"
 contents:
   - title: New Cairo Technological University
-            Bachelor of Information and Communication Technology
     description:
+      - Bachelor of Information and Communication Technology
       - Major in Software Engineering
     date: Oct. 2022 - Jun. 2026
   # - title: Stanfort University, MA in Computer Science
