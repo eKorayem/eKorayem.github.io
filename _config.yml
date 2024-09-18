@@ -4,6 +4,6 @@ description: test
 # 📞 +201004742088 ✉️ eslam.mo.atia@gmail.com  🔗 [LinkedIn](https://linkedin.com/in/ekor) | [GitHub](https://github.com/ekorayem)
 incremental: false
 lsi: false
-# show_downloads: true
-# google_analytics:
+show_downloads: false
+google_analytics: false
 theme: jekyll-theme-minimal
