@@ -2,7 +2,7 @@ subject: Awards
 listing-order: 6
 icon: "/assets/img/trophy.svg"
 contents:
-  - title: "CS50 | Harvard University"
+  - title: CS50 - Harvard University
     description: Introduction to Computer Science
     date: Feb. 2020
   - title: Python Data Structure - University of Michigan
@@ -11,6 +11,6 @@ contents:
   - title: Linux Fundamentals - LearQuest
     # description: won the best Inspirational Youth Awards
     date: Dec. 2023
-  - title: Computer Basics | IBM Skills
+  - title: Computer Basics - IBM Skills
     # description: won the best Inspirational Youth Awards
     date: Mat. 2024
