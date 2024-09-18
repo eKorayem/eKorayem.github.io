@@ -2,7 +2,8 @@ subject: Education
 listing-order: 1
 icon: "/assets/img/graduation-cap.svg"
 contents:
-  - title: New Cairo Technological University, Bachelor of Information and Communication Technology
+  - title: New Cairo Technological University
+            Bachelor of Information and Communication Technology
     description:
       - Major in Software Engineering
     date: Oct. 2022 - Jun. 2026
