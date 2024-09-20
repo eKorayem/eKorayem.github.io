@@ -1,6 +1,9 @@
 # SWE Student | Competitive programmer
 #### Aspiring Data Scientist with a Passion for Machine Learning
 
+## Summary
+A third-year student pursuing a Bachelor of Information and Communication Technology at New Cairo Technological University, with a major in Software Engineering. I have a strong interest in data science and applied machine learning.
+
 ## Education
 
 ### New Cairo Technology University  
