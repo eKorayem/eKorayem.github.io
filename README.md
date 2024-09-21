@@ -25,6 +25,7 @@ Major: Software Engineering
 - **Python Data Structure** - University of Michigan
 - **Linux Fundamentals** - LearQuest
 - **Computer Basics** - IBM Skills
+- **Python Programming Basics** - Mahara Tech
 
 ## Skills
 
