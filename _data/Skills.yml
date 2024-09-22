@@ -17,7 +17,7 @@ contents:
     description: "Data Structures, Algorithms, Database, OOP, Operating Systems, Linear Algebra, Discrete Mathematics, Calculus"
     
   - title: Developer Tools
-    description: "VS Code, Visual Studio"
+    description: "Git&GitHub, VS Code, Visual Studio"
     
   - title: Technologies/Frameworks
     description: "Linux, Django, Git"
