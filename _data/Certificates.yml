@@ -3,7 +3,7 @@ listing-order: 2
 icon: "/assets/img/certificate.png"
 contents:
   - title: CS50 - Harvard University
-    description: Introduction to Computer Science
+    # description: Introduction to Computer Science
     date: Feb. 2020
   - title: Python Data Structure - University of Michigan
     # description: 3rd place in Gogle CodeJam
