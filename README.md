@@ -1,59 +1,62 @@
-# SWE Student | Competitive programmer
-#### Aspiring Data Scientist with a Passion for Machine Learning
+# Eslam Atia's Resume
 
 ## Summary
-A student pursuing a Bachelor of Information and Communication Technology at New Cairo Technological University, with a major in Software Engineering. I have a strong interest in data science and applied machine learning.
+- CS student focusing on data science and machine learning. Skilled in Python, C++, and Django, with practical experience in software solutions and web-based applications.
+- Passionate about leveraging technology to solve real-world problems.
+- **Website:** [https://ekorayem.github.io/](https://ekorayem.github.io/)
 
-## Education
+---
 
-### New Cairo Technology University  
-Bachelor of Information and Communication Technology (October 2022 – May 2026)
-Major: Software Engineering
+## Certificates
+- **CS50: Introduction to Computer Science** – Harvard University, 2023
+- **Python Data Structures** – University of Michigan, 2023
+- **Linux Fundamentals** – LearQuest, 2022
+- **Foundations of Computer Systems** – IBM Skills, 2022
+- **Python Programming** – MaharaTech, 2021
 
+---
 
 ## Projects
 
-### Vacation Management System  
-*Technologies: Python, Django, HTML, CSS, JavaScript*  *2023*  
-- Developed a comprehensive web-based application to manage employee vacation requests, streamlining the approval process.
-- Implemented real-time tracking of vacation balances to enhance decision-making for employees.
-- Designed a user-friendly interface, ensuring accessibility and responsiveness across devices.
+### Dynamic Timetable 
+**Technologies:** Java, Firebase Firestore, XML (2024)
+- Developed a dynamic timetable system to modernize student access to class schedules.
+- Implemented section and level-based filtering for personalized schedule viewing.
+- Integrated Firebase Firestore for real-time schedule updates and data management.
 
-## Certificates
+### Vacation Management System 
+**Technologies:** Python, Django, HTML/CSS, JavaScript, Bootstrap (2023)
+- Created a web application to manage employee vacation requests and streamline approvals.
+- Implemented real-time vacation balance tracking to improve decision-making for employees.
+- Designed a user-friendly interface for accessibility and responsiveness across devices.
 
-- **CS50: Introduction to Computer Science** - Harvard University
-- **Python Data Structure** - University of Michigan
-- **Linux Fundamentals** - LearQuest
-- **Computer Basics** - IBM Skills
-- **Python Programming Basics** - Mahara Tech
+---
 
-## Skills
+## Technical Skills
+- **Programming Languages:** Python, C/C++, Java, SQL, HTML/CSS
+- **Frameworks and Libraries:** Django, pandas, NumPy, Beautiful Soup
+- **Platforms and Tools:** Firebase, Android Studio, Microsoft SQL Server, Git & GitHub, VS Code, Visual Studio
+- **Operating Systems:** Linux (Ubuntu, CentOS), Windows
 
-- **Languages:** C++, Java, C, HTML/CSS, Python, SQL
-- **Developer Tools:** VS Code, Visual Studio
-- **Technologies/Frameworks:** Linux, Django, Git
+---
 
-## Courses
+## Relevant Coursework
+- **Core Programming:** Data Structures, Algorithms, Object-Oriented Programming (OOP)
+- **Mathematics:** Linear Algebra, Discrete Mathematics, Calculus
+- **Systems:** Operating Systems, Database Management
 
-- Data Structures
-- Algorithms
-- Database
-- Object-Oriented Programming (OOP)
-- Operating Systems
-- Linear Algebra
-- Discrete Mathematics
-- Calculus
+---
 
 ## Experience
 
-### Ezz Steel  
-**Intern**  
-*August 2023*  
-Cairo, Elmohandeseen
+### IT Internship
+**Ezz Steel – IT Department, Cairo, Elmohandeseen (August 2023)**
+- Configured and managed Linux-based servers to enhance IT infrastructure stability.
+- Resolved technical issues for Windows and Linux environments, reducing downtime by 20%.
 
-## Volunteer Experience
+---
 
-### Resala Charity
-*March 2024 – Present*
-- Engaged in various community service projects aimed at supporting underprivileged individuals.
-- Assisted in organizing events and fundraising activities to promote charitable initiatives.
+## Education
+**New Cairo Technological University – Cairo, New Cairo**  
+**Bachelor of Information and Communication Technology (Major: Software Engineering)**  
+**October 2022 – May 2026**
