@@ -13,14 +13,24 @@ contents:
       # ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg)
       # ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg)
     # "
-  - title: Courses
-    description: "Data Structures, Algorithms, Database, OOP, Operating Systems, Linear Algebra, Discrete Mathematics, Calculus"
+  - title: Frameworks and Libraries
+  description: "Django, pandas, NumPy, Beautiful Soup"
+  
+  - title: Platforms and Tools
+  description: "Firebase, Android Studio, Microsoft SQL Server, Git & GitHub, VS Code, Visual Studio"
     
-  - title: Developer Tools
-    description: "Git&GitHub, VS Code, Visual Studio"
+  - title: Operating Systems
+    description: "Linux, Windows"
+
+  - title: "Relevant Coursework"
+    contents:
+      - title: "Core Programming"
+        description: "Data Structures, Algorithms, Object-Oriented Programming (OOP)"
+      - title: "Mathematics"
+        description: "Linear Algebra, Discrete Mathematics, Calculus"
+      - title: "Systems"
+        description: "Operating Systems, Database Management"
     
-  - title: Technologies/Frameworks
-    description: "Linux, Django, Git"
     # "
     #   ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg)
     #   ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg)
