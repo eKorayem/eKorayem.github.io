@@ -22,14 +22,8 @@ contents:
   - title: Operating Systems
     description: "Linux, Windows"
 
-  - title: "Relevant Coursework"
-    contents:
-      - title: "Core Programming"
-        description: "Data Structures, Algorithms, Object-Oriented Programming (OOP)"
-      - title: "Mathematics"
-        description: "Linear Algebra, Discrete Mathematics, Calculus"
-      - title: "Systems"
-        description: "Operating Systems, Database Management"
+  - title: Courses
+  description: "Data Structures, Algorithms, Database, OOP, Operating Systems, Linear Algebra, Discrete Mathematics, Calculus"
     
     # "
     #   ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg)
