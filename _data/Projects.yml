@@ -2,16 +2,22 @@ subject: Projects
 listing-order: 3
 icon: "/assets/img/clipboard-list.svg"
 contents:
-  - title: "Dynamic Timetable ([Github Repo](https://github.com/ekorayem/DynamicTimetable))"
+  - title: "HRVMS ([Github Repo](https://github.com/eKorayem/HRVMS/))"
     description: 
-      - Developed a dynamic timetable system, reducing scheduling conflicts.
-      - Implemented section and level-based filtering for personalized schedule viewing.
-      - Integrated Firebase Firestore for real-time schedule updates and data management.
-      - "Technology Used: Java, Firebase Firestore, XML"
-
-  - title: "Vacation Management System ([Github Repo](https://github.com/eKorayem/HRVMS/))"
-    description: 
+      - Vacation Management System
       - Developed a comprehensive web-based application to manage employee vacation requests, streamlining the approval process.
       - Implemented real-time tracking of vacation balances to enhance decision-making for employees.
       - Designed a user-friendly interface, ensuring accessibility and responsiveness across devices.
       - "Technology Used: Python, Django, JavaScript, HTML, CSS"
+    # image: "![](https://i.ibb.co/hX2wYLB/231321.webp)"
+  # - title: "AW5-cli ([https://github.com/aw5/aw5-cli](https://github.com/aws/aws-cli))"
+  #   description: 
+  #     - Universal Command Line Interface for Amazone Web Services
+  #     - Developed a scheme to facilitate users’ authentication without having to remember their credentials
+  #     - "Technology Used: Typescript, Python, Go"
+  #   image: "![](https://i.ibb.co/Ttb5Qn9/21321312.webp)"
+  # - title: "PiTorch ([https://pitorch.org/](https://pytorch.org/))" 
+  #   description: 
+  #     - Machine learning library for applications such as computer vision and natural language processing
+  #     - "Technology Used: Python, Cuda, Objective-C++"
+  #   image: "![](https://i.ibb.co/R9150c4/12421323.webp)"
